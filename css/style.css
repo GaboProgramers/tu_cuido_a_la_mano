@@ -12,8 +12,9 @@
 }
 
 *{
-  font-family: 'Nunito', sans-serif;
-  margin: 0; padding:0;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0; 
+  padding:0;
   box-sizing: border-box;
   outline: none; 
   border:none;
@@ -28,6 +29,7 @@ html{
   scroll-padding-top:6rem;
   scroll-behavior: smooth;
   font-weight: 700;
+  background-color: #fff;
 }
 
 body::-webkit-scrollbar {
@@ -1075,9 +1077,6 @@ span .volver-atras {
 
 
 
-
-
-
 /* media queries  */
 
 @media (max-width: 1024px){
@@ -1177,12 +1176,6 @@ span .volver-atras {
 }
 
 @media (max-width: 415px){
-
-  .heading,
-  .heading span {
-    width: 100%;
-  }
-
   html{
     font-size: 50%;
   }
