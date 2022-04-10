@@ -1102,15 +1102,12 @@ span .volver-atras {
   .collapse {
     width: 100%;
     padding: 2rem 2rem;
-    background-color: transparent;
     position: fixed;
     top: 0;
     margin-top: 7rem;
     padding: 20px 0;
     height: 50%;
     width: 100%;
-    word-wrap: break-word;
-    overscroll-behavior-y: auto;
   }
 
   .carrito .table,
@@ -1128,7 +1125,6 @@ span .volver-atras {
   .collapse .table .trCar .precioCar {
     margin: 0 auto;
     font-size: 8px;
-    word-wrap: break-word;
   }
 
 }
