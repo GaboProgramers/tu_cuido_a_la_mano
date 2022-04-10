@@ -1078,6 +1078,11 @@ span .volver-atras {
 
   .newsletter .content .direccion .contacto {
     margin-top: 5rem;
+    width: 100%;
+  }
+
+  .newsletter .content .contacto a {
+    font-size: 2rem;
   }
 
   .newsletter .content .direccion iframe {
