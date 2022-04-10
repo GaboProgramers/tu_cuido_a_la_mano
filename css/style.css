@@ -1069,7 +1069,7 @@ span .volver-atras {
   }
 
   .newsletter .content {
-    height: 90rem;
+    height: 85rem;
   }
 
   .newsletter .content .direccion {
@@ -1077,8 +1077,9 @@ span .volver-atras {
   }
 
   .newsletter .content .direccion .contacto {
-    margin-top: 5rem;
+    margin-top: 3rem;
     width: 100%;
+    background-color: transparent;
   }
 
   .newsletter .content .contacto a {
