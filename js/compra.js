@@ -59,7 +59,7 @@ function procesarCompra() {
                 console.log(compraFinal)
 
                 
-                let direccion = `https://api.whatsapp.com/send?phone=573502117928&text=${compraFinal}`;
+                let direccion = `https://api.whatsapp.com/send?phone=573126195583&text=${compraFinal}`;
                 procesarCompraBtn.setAttribute('href',`${direccion}`)
                 
                 compra.vaciarLocalStorage();
