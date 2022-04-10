@@ -1072,6 +1072,10 @@ span .volver-atras {
     grid-template-columns: 1fr;
   }
 
+  .newsletter .content .direccion .contacto a {
+    font-size: 1.3rem;
+  }
+
   .newsletter .content .direccion iframe {
     margin:  0rem;
     width: 100%;
