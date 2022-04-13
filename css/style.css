@@ -379,6 +379,7 @@ header .icons a:hover{
 }
 
 .products .box-container .box img{
+  position: relative;
   height: 30rem;
   margin: 6rem .5rem;
   margin-top: 3rem;
